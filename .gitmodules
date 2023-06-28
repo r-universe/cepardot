@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "FactoClass"]
 	path = FactoClass
 	url = https://github.com/cran/FactoClass
-	shallow = true
-	registered = true
 [submodule "pamctdp"]
 	path = pamctdp
 	url = https://github.com/cran/pamctdp
-	shallow = true
-	registered = true
 [submodule "qha"]
 	path = qha
 	url = https://github.com/cran/qha
-	shallow = true
-	registered = true
